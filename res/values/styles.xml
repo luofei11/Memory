@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+	<style name="dialog_color" >
+        <item name="android:windowNoTitle">true</item><!--无标题-->
+        <item name="android:windowFrame">@null</item><!--边框-->
+		<item name="android:windowBackground">@android:color/transparent</item><!-- 背景透明 -->
+    </style>
+</resources>

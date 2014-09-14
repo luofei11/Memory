@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">内存优化</string>
+    <string name="clear">点击清理</string>
+    <string name="clearing">正在结束进程</string>
+    <string name="phone_info">手机概况</string>
+    <string name="phone_info_over">进程清理完毕</string>
+    <string name="phone_info_over_info">经常清理手机,保证最佳状态！</string>
+
+</resources>
